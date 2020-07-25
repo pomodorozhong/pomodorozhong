@@ -1,4 +1,4 @@
-<img align="right" href="#" onclick="return false;" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=pomodorozhong&show_icons=true" alt="pomodorozhong's github stats" />
+<img align="right" href="#" onclick="return false;" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=pomodorozhong&show_icons=true&hide_title=true&icon_color=000000" alt="pomodorozhong's github stats" />
 
 ### Recent gist
 + [Python related](https://gist.github.com/pomodorozhong/b052474ff55400b32726f417105959fe)
